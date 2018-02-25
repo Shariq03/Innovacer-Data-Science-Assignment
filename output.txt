@@ -1,0 +1,257 @@
+         ln       dob gn       fn
+0  SMITH JR  01/03/68  F  WILLIAM
+
+
+             ln       dob gn       fn
+1  ROTHMEYER JR  01/03/68  F  WILLIAM
+
+
+        ln       dob gn       fn
+2  ASBY JR  01/03/68  F  WILLIAM
+
+
+          ln       dob gn       fn
+3  SALTER JR  01/03/68  F  WILLIAM
+4  SALTER JR  01/03/68  F  WILLIAM
+
+
+               ln       dob gn   fn
+27  MICHAELSON JR  01/05/51  M  ROY
+
+
+               ln       dob gn       fn
+100  FUNARO JONES  06/12/37  F  HARRIET
+101      FUNARO J  06/12/37  F  HARRIET
+102        FUNARO  06/12/37  F  HARRIET
+
+
+            ln       dob gn    fn
+89  GRIFFIN JR  07/05/37  M  DARL
+
+
+            ln       dob gn        fn
+90  GRIFFIN JR  07/05/37  M  CLIFFORD
+91  GRIFFIN JR  07/05/37  M  CLIFFORD
+92  GRIFFIN JR  07/05/37  M  CLIFFORD
+
+
+            ln       dob gn        fn
+93  GRIFFIN JR  07/05/37  M  CLARENCE
+
+
+             ln       dob gn      fn
+64  MUSTAPHA JR  07/10/37  M  HAROLD
+
+
+             ln       dob gn      fn
+65  HOUGHTON JR  07/10/37  M  HAROLD
+
+
+           ln       dob gn      fn
+66  MELVIN JR  07/10/37  M  HAROLD
+67  MELVIN JR  07/10/37  M  HAROLD
+68  MELVIN JR  07/10/37  M  HAROLD
+69  MELVIN JR  07/10/37  M  HAROLD
+70  MELVIN JR  07/10/37  M  HAROLD
+71  MELVIN JR  07/10/37  M  HAROLD
+72  MELVIN JR  07/10/37  M  HAROLD
+73  MELVIN JR  07/10/37  M  HAROLD
+74  MELVIN JR  07/10/37  M  HAROLD
+
+
+           ln       dob gn      fn
+75  CHAVAS JR  07/10/37  M  HAROLD
+76  CHAVAS JR  07/10/37  M  HAROLD
+77  CHAVAS JR  07/10/37  M  HAROLD
+78  CHAVAS JR  07/10/37  M  HAROLD
+82  CHAVAS JR  07/10/37  M  HAROLD
+83  CHAVAS JR  07/10/37  M  HAROLD
+
+
+               ln       dob gn      fn
+79  MICHAELSON JR  07/10/37  M  HAROLD
+80  MICHAELSON JR  07/10/37  M  HAROLD
+
+
+          ln       dob gn      fn
+81  SMITH JR  07/10/37  M  HAROLD
+
+
+          ln       dob gn      fn
+84  FAGEN JR  07/10/37  M  HAROLD
+85  FAGEN JR  07/10/37  M  HAROLD
+
+
+          ln       dob gn      fn
+86  FAGEN JR  07/10/37  M  GEORGE
+
+
+            ln       dob gn    fn
+87  GRIFFIN JR  07/10/37  M  DARH
+
+
+          ln       dob gn       fn
+14  BLAND JR  08/06/54  F  WILLIAM
+15  BLAND JR  08/06/54  F  WILLIAM
+
+
+       ln       dob gn      fn
+45  CLARK  09/02/45  M  RONALD
+46  CLARK  09/02/45  M  DONALD
+
+
+               ln       dob gn   fn
+30  MICHAELSON JR  09/04/47  M  ROY
+
+
+               ln       dob gn      fn
+31  MICHAELSON JR  09/04/47  M  ROBERT
+
+
+               ln       dob gn   fn
+32  MICHAELSON JR  09/04/47  M  BOB
+
+
+               ln       dob gn    fn
+61  MICHAELSON JR  09/06/39  M  JACK
+
+
+           ln       dob gn      fn
+62  LARSON JR  09/06/39  M  HAROLD
+63  LARSON JR  09/06/39  M  HAROLD
+
+
+       ln       dob gn    fn
+44  CLARK  09/06/45  M  JOHN
+
+
+            ln       dob gn    fn
+88  GRIFFIN JR  10/07/37  M  DARL
+
+
+             ln       dob gn    fn
+33  MUSTAPHA JR  11/03/47  M  OWEN
+34  MUSTAPHA JR  11/03/47  M  OWAN
+
+
+             ln       dob gn       fn
+99  GALETICH JR  15/10/32  M  ADDISON
+
+
+          ln       dob gn    fn
+47     CLARK  16/12/44  M  JOHN
+48  CLARK JR  16/12/44  M  JOHN
+49  CLARK JR  16/12/44  M  JOHN
+
+
+               ln       dob gn    fn
+50  MICHAELSON JR  16/12/44  M  JOHN
+51  MICHAELSON JR  16/12/44  M  JOHN
+52  MICHAELSON JR  16/12/44  M  JOHN
+
+
+               ln       dob gn   fn
+28  MICHAELSON JR  17/06/48  M  ROY
+29  MICHAELSON JR  17/06/48  M  ROY
+
+
+         ln       dob gn    fn
+42  LIND JR  20/01/46  M  JOHN
+
+
+         ln       dob gn    fn
+43  CAIN JR  20/01/46  M  JOHN
+
+
+           ln       dob gn       fn
+5    BLAND JR  21/02/62  F  WILLIAM
+6    BLAND JR  21/02/62  F  WILLIAM
+7    BLAND JR  21/02/62  F  WILLIAM
+10  BLAND III  21/02/62  F  WILLIAM
+12      BLAND  21/02/62  F  WILLIAM
+13   BLAND JR  21/02/62  F  WILLIAM
+
+
+           ln       dob gn       fn
+8  SHAFFER JR  21/02/62  F  WILLIAM
+9  SHAFFER JR  21/02/62  F  WILLIAM
+
+
+          ln       dob gn    fn
+11  BLAND JR  21/02/62  F  BILL
+
+
+               ln       dob gn    fn
+53  MICHAELSON JR  24/04/40  M  JOHN
+54  MICHAELSON JR  24/04/40  M  JOHN
+
+
+               ln       dob gn    fn
+55  MICHAELSON JR  24/06/39  M  JOHN
+56  MICHAELSON JR  24/06/39  M  JOHN
+57  MICHAELSON JR  24/06/39  M  JOHN
+
+
+               ln       dob gn     fn
+58  MICHAELSON JR  24/06/39  M  JAMES
+59  MICHAELSON JR  24/06/39  M  JAMES
+
+
+               ln       dob gn    fn
+60  MICHAELSON JR  24/06/39  M  JACK
+
+
+       ln       dob gn            fn
+94  HANNA  24/11/34  M     ADDISON J
+95  HANNA  24/11/34  M  ADDISON JOHN
+96  HANNA  24/11/34  M       ADDISON
+97  HANNA  24/11/34  M       ADDISON
+98  HANNA  24/11/34  M       ADDISON
+
+
+          ln       dob gn       fn
+16  BLAND JR  25/10/53  F  WILLIAM
+17  BLAND JR  25/10/53  F  WILLIAM
+
+
+            ln       dob gn       fn
+18  SHAFFER JR  25/10/53  F  WILLIAM
+
+
+           ln       dob gn      fn
+19  DUNCAN JR  25/10/53  F  THOMAS
+
+
+            ln       dob gn   fn
+20  CARLSON JR  25/10/53  F  ROY
+
+
+            ln       dob gn   fn
+21  CARLSON JR  25/10/53  F  RON
+
+
+           ln       dob gn   fn
+22  DUNCAN JR  25/10/53  F  ROY
+
+
+               ln       dob gn   fn
+23     MICHAELSON  25/10/53  M  ROY
+24  MICHAELSON JR  25/10/53  M  ROY
+25     MICHAELSON  25/10/53  M  ROY
+26  MICHAELSON JR  25/10/53  M  ROY
+
+
+             ln       dob gn        fn
+35  HOUGHTON JR  31/01/46  M  LAWRENCE
+36  HOUGHTON JR  31/01/46  M  LAWRENCE
+37  HOUGHTON JR  31/01/46  M  LAWRENCE
+
+
+         ln       dob gn        fn
+38  LIND JR  31/01/46  M  LAWRENCE
+39  LIND JR  31/01/46  M  LAWRENCE
+
+
+         ln       dob gn       fn
+40  LIND JR  31/01/46  M  KENNETH
+41  LIND JR  31/01/46  M  KENNETH
